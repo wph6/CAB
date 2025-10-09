@@ -57,3 +57,4 @@ This project builds on:
 
 * [**Vim**](https://github.com/hustvl/Vim) — Vision Mamba: Efficient visual state-space models for image understanding.  
 * [**Phi-Mamba**](https://github.com/goombalab/phi-mamba) — A Mamba-based language model for efficient sequence modeling.
+* [**Attention Transfer**](https://github.com/alexlioralexli/attention-transfer) — A PyTorch implementation of attention-based knowledge distillation methods.

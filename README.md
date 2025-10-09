@@ -1,5 +1,7 @@
 # 🚕 CAB: Data Efficient Any Transformer-to-Mamba Distillation via Attention Bridge
 
+---
+
 ## ✨ Overview
 ![CAB Overview](figures/intro.png)
 *Figure 1: **Towards Effective Attention-to-SSM Distillation.**
@@ -19,7 +21,9 @@ Across both vision and language tasks, CAB achieves superior performance and eff
 *Figure 3:   Attention matrices similarity between Vim and pretrained ViT, comparing results with and without attention alignment. 
   Higher similarity indicates better alignment of attention representations.*
 
-## ⚙️ Installation
+---
+
+## ⚙️ Quick Start
 We recommend Python **3.10+**.
 
 ###  Create Environment
@@ -50,6 +54,7 @@ pip install -r requirements.txt
 bash run.sh
 ```
 
+---
 
 ## 🤝 Acknowledgements
 
@@ -58,3 +63,16 @@ This project builds on:
 * [**Vim**](https://github.com/hustvl/Vim) — Vision Mamba: Efficient visual state-space models for image understanding.  
 * [**Phi-Mamba**](https://github.com/goombalab/phi-mamba) — A Mamba-based language model for efficient sequence modeling.
 * [**Attention Transfer**](https://github.com/alexlioralexli/attention-transfer) — A PyTorch implementation of attention-based knowledge distillation methods.
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+
+---
+
+## 📚 Citation
+If you find CAB useful, please cite our paper:
+
+

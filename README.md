@@ -28,7 +28,7 @@ conda create -n CAB python=3.10
 conda activate CAB
 ````
 
-### 🌈 Vision Task Setup (vision_CAB)
+### 🖼️ Vision Task Setup (vision_CAB)
 ```bash
 # Install vision task dependencies
 pip install -r requirements.txt

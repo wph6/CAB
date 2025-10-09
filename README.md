@@ -49,3 +49,11 @@ pip install -r requirements.txt
 # Run distillation
 bash run.sh
 ```
+
+
+## 🤝 Acknowledgements
+
+This project builds on:
+
+* [**Vim**](https://github.com/hustvl/Vim) — Vision Mamba: Efficient visual state-space models for image understanding.  
+* [**Phi-Mamba**](https://github.com/goombalab/phi-mamba) — A Mamba-based language model for efficient sequence modeling.

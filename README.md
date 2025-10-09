@@ -1,6 +1,6 @@
-# CAB: Data Efficient Any Transformer-to-Mamba Distillation via Attention Bridge
+# 🚕 CAB: Data Efficient Any Transformer-to-Mamba Distillation via Attention Bridge
 
-## 🚕 Overview
+## ✨ Overview
 ![CAB Overview](figures/intro.png)
 *Figure 1: **Towards Effective Attention-to-SSM Distillation.**
 We highlight the structural complementarity between attention-based and SSM-based models, and the limitations of direct attention transfer, motivating our proposed alignment-based distillation approach.*

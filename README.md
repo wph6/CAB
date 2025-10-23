@@ -1,6 +1,9 @@
 # 🚕 CAB: Data Efficient Any Transformer-to-Mamba Distillation via Attention Bridge
+<div align="center">
 
----
+<a href='https://arxiv.org/pdf/2510.19266'><img src='https://img.shields.io/badge/arXiv-2510.19266-%23B31B1B?logo=arxiv'></a>
+<a href='LICENSE'><img src='https://img.shields.io/badge/License-MIT-green.svg'></a>
+</div>
 
 ## ✨ Overview
 ![CAB Overview](figures/intro.png)
@@ -75,4 +78,15 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 ## 📚 Citation
 If you find CAB useful, please cite our paper:
 
+```
+@misc{wang2025dataefficienttransformertomambadistillation,
+      title={Data Efficient Any Transformer-to-Mamba Distillation via Attention Bridge}, 
+      author={Penghao Wang and Yuhao Zhou and Mengxuan Wu and Panpan Zhang and Zhangyang Wang and Kai Wang},
+      year={2025},
+      eprint={2510.19266},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2510.19266}, 
+}
+```
 
